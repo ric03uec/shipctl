@@ -1,0 +1,8 @@
+language: go
+
+go:
+  - 1.10
+
+build:
+  ci:
+    - echo "Build binaries for all supported platforms"
